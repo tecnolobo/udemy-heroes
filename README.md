@@ -14,4 +14,4 @@ Esta es una nota prueba
 Haciendo fastfordware
 
 ##cambios desde local
-Se agrega linea desde local
+Se agrega linea desde local con git
